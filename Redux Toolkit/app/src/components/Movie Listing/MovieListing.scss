@@ -1,0 +1,11 @@
+@import "../../sass/colors.scss";
+
+.movie-list,
+.show-list {
+  margin: 20px 20px;
+  h2 {
+    color: $font-secondary-color;
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+}
